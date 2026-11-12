@@ -374,7 +374,7 @@
     ],
     [
      "数据与 AI",
-     "SUP_AI_APPLICATION_GOV",
+     "SUP_AI_DATA_GOV",
      "数据治理",
      "数据标准、质量与安全治理咨询",
      "DEM_TECH_AI",
@@ -398,7 +398,7 @@
     ],
     [
      "场地与设备",
-     "SUP_EQUIP_LEASEX",
+     "SUP_OFFICE_EQUIP_RENT",
      "办公设备租赁",
      "电脑、打印与音视频设备出租",
      "DEM_FIN_LEASE",
@@ -767,7 +767,7 @@
      "物联网数据采集 ← 找自动化改造：典型撮合对"
     ],
     [
-     "SUP_AI_APPLICATION_GOV",
+     "SUP_AI_DATA_GOV",
      "DEM_TECH_AI",
      "数据治理 ← 找 AI 应用落地：典型撮合对"
     ],
@@ -792,7 +792,7 @@
      "活动场地服务 ← 找活动共办方：典型撮合对"
     ],
     [
-     "SUP_EQUIP_LEASEX",
+     "SUP_OFFICE_EQUIP_RENT",
      "DEM_FIN_LEASE",
      "办公设备租赁 ← 找设备租赁：典型撮合对"
     ],
